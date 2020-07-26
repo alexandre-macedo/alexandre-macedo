@@ -11,7 +11,7 @@
 </br>
 </br>
 <a href=https://www.linkedin.com/in/alexandre-macedo/>
-  <img valign="middle" src="https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark.png" width="60">
+  <img valign="middle" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="60">
   <span>@alexandre-macedo</span>
 </a>
 
