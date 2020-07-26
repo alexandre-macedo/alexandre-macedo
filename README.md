@@ -2,15 +2,11 @@
   <img valign="middle" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" width="60">
   <span>@alexandre-macedo</span>
 </a>
-</br>
-</br>
 <a href=https://github.com/alexandre-macedo>
   <img valign="middle" src="https://pngimg.com/uploads/github/github_PNG20.png" width="60">
   <span>@alexandre-macedo</span>
 </a>
-</br>
-</br>
-<a href=https://www.linkedin.com/in/alexandre-macedo/>
+<a href=https://www.linkedin.com/in/alexandre-macedo>
   <img valign="middle" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="60">
   <span>@alexandre-macedo</span>
 </a>
