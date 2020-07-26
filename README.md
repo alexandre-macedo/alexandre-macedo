@@ -5,13 +5,13 @@
 </br>
 </br>
 <a href=https://github.com/alexandre-macedo>
-  <img valign="middle" src="https://pngimg.com/uploads/github/github_PNG20.png" width="50">
+  <img valign="middle" src="https://pngimg.com/uploads/github/github_PNG20.png" width="60">
   <span>@alexandre-macedo</span>
 </a>
 </br>
 </br>
 <a href=https://www.linkedin.com/in/alexandre-macedo/>
-  <img valign="middle" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="40">
+  <img valign="middle" src="https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark.png" width="60">
   <span>@alexandre-macedo</span>
 </a>
 
