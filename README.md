@@ -2,7 +2,7 @@
 <tr>
 <td>
 <a href=https://gitlab.com/alexandre-macedo>
-  <img valign="middle" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" width="60">
+  <img valign="middle" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-600.png" width="60">
 </a>
 </td>
 <td>
